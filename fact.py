@@ -1,11 +1,5 @@
-N=5
 
-facto=1
 
-while(N>0):
+print("bye bye")
 
-  facto=facto*N
 
-  N=N-1
-
-print(facto)
